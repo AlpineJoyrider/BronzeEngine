@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BronzeEngine", "BronzeEngine\BronzeEngine.csproj", "{A0C3C6FD-42A3-48F0-BD06-3928236F0F65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BronzeEditor", "BronzeEditor\BronzeEditor.csproj", "{842CFF28-C610-458F-B3ED-DBDECDEEC0DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0C3C6FD-42A3-48F0-BD06-3928236F0F65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0C3C6FD-42A3-48F0-BD06-3928236F0F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0C3C6FD-42A3-48F0-BD06-3928236F0F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0C3C6FD-42A3-48F0-BD06-3928236F0F65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{842CFF28-C610-458F-B3ED-DBDECDEEC0DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{842CFF28-C610-458F-B3ED-DBDECDEEC0DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{842CFF28-C610-458F-B3ED-DBDECDEEC0DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{842CFF28-C610-458F-B3ED-DBDECDEEC0DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
